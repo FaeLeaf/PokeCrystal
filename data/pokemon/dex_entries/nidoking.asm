@@ -1,10 +1,10 @@
-	db "DRILL@" ; species name
+	db "MOONLIGHT@" ; species name
 	dw 407, 1370 ; height, weight
 
-	db   "It uses its thick"
-	next "arms, legs and"
-	next "tail to attack"
+	db   "Excessive sun ex-"
+	next "posure can kill"
+	next "this #MON. Its"
 
-	page "forcefully. Melee"
-	next "combat is its"
-	next "specialty.@"
+	page "excited howls can"
+	next "be heard during"
+	next "the Full Moon."

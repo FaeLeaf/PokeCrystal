@@ -1,28 +1,28 @@
 BitmasksPointers:
 	table_width 2, BitmasksPointers
-	dw BulbasaurBitmasks
-	dw IvysaurBitmasks
-	dw VenusaurBitmasks
-	dw CharmanderBitmasks
-	dw CharmeleonBitmasks
-	dw CharizardBitmasks
-	dw SquirtleBitmasks
-	dw WartortleBitmasks
-	dw BlastoiseBitmasks
-	dw CaterpieBitmasks
-	dw MetapodBitmasks
-	dw ButterfreeBitmasks
-	dw WeedleBitmasks
-	dw KakunaBitmasks
-	dw BeedrillBitmasks
+	dw AllileafBitmasks
+	dw CrocofrondBitmasks
+	dw DracodileBitmasks
+	dw LavasaurBitmasks
+	dw BrontosearBitmasks
+	dw VolbrachioBitmasks
+	dw SharquaBitmasks
+	dw ThresharpBitmasks
+	dw SlasharkBitmasks
+	dw CappiBitmasks
+	dw CapyboaraBitmasks
+	dw PebbirdBitmasks
+	dw FeathoreBitmasks
+	dw BoulderocBitmasks
+	dw BuggyBitmasks
 	dw PidgeyBitmasks
 	dw PidgeottoBitmasks
 	dw PidgeotBitmasks
 	dw RattataBitmasks
-	dw RaticateBitmasks
-	dw SpearowBitmasks
-	dw FearowBitmasks
-	dw EkansBitmasks
+	dw VaporetBitmasks
+	dw FerrestormBitmasks
+	dw BunilopeBitmasks
+	dw BuniwolpBitmasks
 	dw ArbokBitmasks
 	dw PikachuBitmasks
 	dw RaichuBitmasks

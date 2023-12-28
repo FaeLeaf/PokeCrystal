@@ -52,3 +52,4 @@ You can find us on:
 [symbols]: https://github.com/pret/pokecrystal/tree/symbols
 [ci]: https://github.com/pret/pokecrystal/actions
 [ci-badge]: https://github.com/pret/pokecrystal/actions/workflows/main.yml/badge.svg
+# PokeCrystal

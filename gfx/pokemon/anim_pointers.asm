@@ -1,28 +1,28 @@
 AnimationPointers:
 	table_width 2, AnimationPointers
-	dw BulbasaurAnimation
-	dw IvysaurAnimation
-	dw VenusaurAnimation
-	dw CharmanderAnimation
-	dw CharmeleonAnimation
-	dw CharizardAnimation
-	dw SquirtleAnimation
-	dw WartortleAnimation
-	dw BlastoiseAnimation
-	dw CaterpieAnimation
-	dw MetapodAnimation
-	dw ButterfreeAnimation
-	dw WeedleAnimation
-	dw KakunaAnimation
-	dw BeedrillAnimation
+	dw AllileafAnimation
+	dw CrocofrondAnimation
+	dw DracodileAnimation
+	dw LavasaurAnimation
+	dw BrontosearAnimation
+	dw VolbrachioAnimation
+	dw SharquaAnimation
+	dw ThresharpAnimation
+	dw SlasharkAnimation
+	dw CappiAnimation
+	dw CapyboaraAnimation
+	dw PebbirdAnimation
+	dw FeathoreAnimation
+	dw BoulderocAnimation
+	dw BuggyAnimation
 	dw PidgeyAnimation
 	dw PidgeottoAnimation
 	dw PidgeotAnimation
 	dw RattataAnimation
-	dw RaticateAnimation
-	dw SpearowAnimation
-	dw FearowAnimation
-	dw EkansAnimation
+	dw VaporetAnimation
+	dw FerrestormAnimation
+	dw BunilopeAnimation
+	dw BuniwolpAnimation
 	dw ArbokAnimation
 	dw PikachuAnimation
 	dw RaichuAnimation

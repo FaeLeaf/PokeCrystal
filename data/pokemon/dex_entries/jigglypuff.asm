@@ -1,10 +1,10 @@
-	db "BALLOON@" ; species name
-	dw 108, 120 ; height, weight
+	db "HONEY@" ; species name
+	dw 208, 9702 ; height, weight
 
-	db   "It rolls its cute"
-	next "eyes as it sings a"
-	next "soothing lullaby."
+	db   "They're kept for"
+	next "their abundant"
+	next "supply of Honey,"
 
-	page "Its gentle song"
-	next "puts anyone who"
-	next "hears it to sleep.@"
+	page "used in recipes"
+	next "and for attracting"
+	next "certain #MON.@"

@@ -1,10 +1,10 @@
-	db "DIVING@" ; species name
-	dw 1701, 4760 ; height, weight
+	db "SOLSTICE@" ; species name
+	dw 10011, 10142 ; height, weight
 
-	db   "It has an incred-"
-	next "ible ability to"
-	next "calm raging sto-"
+	db   "It is said that"
+	next "SOLARCTICA alters"
+	next "the temperature"
 
-	page "rms. It is said"
-	next "that LUGIA appears"
-	next "when storms start.@"
+	page "throughout the"
+	next "region as the"
+	next "seasons change.@"

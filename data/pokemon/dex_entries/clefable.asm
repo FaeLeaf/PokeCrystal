@@ -1,10 +1,10 @@
-	db "FAIRY@" ; species name
-	dw 403, 880 ; height, weight
+	db "GROUND BAT@" ; species name
+	dw 210, 580 ; height, weight
 
-	db   "Said to live in"
-	next "quiet, remote"
-	next "mountains, this"
+	db   "Evolution has gra-"
+	next "nted it sight, but"
+	next "it still prefers"
 
-	page "type of fairy has"
-	next "a strong aversion"
-	next "to being seen.@"
+	page "dwelling in caves."
+	next "It can easily cut"
+	next "through boulders.@"

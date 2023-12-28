@@ -1,10 +1,10 @@
-	db "FOX@" ; species name
-	dw 307, 440 ; height, weight
+	db "POLLINATOR@" ; species name
+	dw 4, 7 ; height, weight
 
-	db   "It is said to live"
-	next "a thousand years,"
-	next "and each of its"
+	db   "POLLIBEE have been"
+	next "invaluble to regi-"
+	next "onal agriculture"
 
-	page "tails is loaded"
-	next "with supernatural"
-	next "powers.@"
+	page "for centuries and"
+	next "are used for poll-"
+	next "inating crops.@"

@@ -1,10 +1,10 @@
-	db "FLOWER@" ; species name
-	dw 311, 410 ; height, weight
+	db "PEA@" ; species name
+	dw 301, 890 ; height, weight
 
-	db   "By shaking its big"
-	next "petals, it scat-"
-	next "ters toxic pollen"
+	db   "During Spring, the"
+	next "pod-like spines on"
+	next "its back open up,"
 
-	page "into the air,"
-	next "turning the air"
-	next "yellow.@"
+	page "revealing a nutri-"
+	next "tious food used in"
+	next "various soups.@"

@@ -7,7 +7,7 @@
 	const ICON_PIKACHU
 	const ICON_STARYU
 	const ICON_FISH
-	const ICON_BIRD
+	const ICON_PEBBIRD
 	const ICON_MONSTER
 	const ICON_CLEFAIRY
 	const ICON_ODDISH
@@ -16,14 +16,14 @@
 	const ICON_LAPRAS
 	const ICON_HUMANSHAPE
 	const ICON_FOX
-	const ICON_EQUINE
+	const ICON_CAPPI
 	const ICON_SHELL
 	const ICON_BLOB
 	const ICON_SERPENT
 	const ICON_VOLTORB
-	const ICON_SQUIRTLE
-	const ICON_BULBASAUR
-	const ICON_CHARMANDER
+	const ICON_SHARQUA
+	const ICON_ALLILEAF
+	const ICON_LAVASAUR
 	const ICON_CATERPILLAR
 	const ICON_UNOWN
 	const ICON_GEODUDE
@@ -39,6 +39,18 @@
 	const ICON_SLOWPOKE
 	const ICON_SUDOWOODO
 	const ICON_BIGMON
+	const ICON_BRONTOSEAR
+	const ICON_VOLBRACHIO
+	const ICON_CROCOFROND
+	const ICON_DRACODILE
+	const ICON_CAPYBOARA
+	const ICON_FEATHORE
+	const ICON_BOULDEROC
+	const ICON_BUGGY
+	const ICON_VAPORET
+	const ICON_FERRESTORM
+	const ICON_BUNILOPE
+	const ICON_BUNIWOLP
 DEF NUM_ICONS EQU const_value - 1
 
 ; LoadMenuMonIcon.Jumptable indexes (see engine/gfx/mon_icons.asm)

@@ -1,6 +1,6 @@
 	object_const_def
 	const ROUTE28STEELWINGHOUSE_CELEBRITY
-	const ROUTE28STEELWINGHOUSE_FEAROW
+	const ROUTE28STEELWINGHOUSE_PIDGEOTTO
 
 Route28SteelWingHouse_MapScripts:
 	def_scene_scripts
@@ -33,7 +33,7 @@ Celebrity:
 CelebritysFearow:
 	opentext
 	writetext CelebritysFearowText
-	cry FEAROW
+	cry PIDGEOTTO
 	waitbutton
 	closetext
 	end
@@ -65,7 +65,7 @@ CelebrityText2:
 	done
 
 CelebritysFearowText:
-	text "FEAROW: Feero!"
+	text "Pidgeotto: Pid-joo!"
 	done
 
 Route28SteelWingHouse_MapEvents:

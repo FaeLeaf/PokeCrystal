@@ -1,10 +1,10 @@
-	db "FAIRY@" ; species name
-	dw 200, 170 ; height, weight
+	db "GROUND BAT@" ; species name
+	dw 105, 140 ; height, weight
 
-	db   "Though rarely"
-	next "seen, it becomes"
-	next "easier to spot,"
+	db   "Completely blind,"
+	next "DIGIDAE use their"
+	next "scythe-like claws"
 
-	page "for some reason,"
-	next "on the night of a "
-	next "full moon.@"
+	page "to communicate via"
+	next "vibrations in the"
+	next "ground.@"

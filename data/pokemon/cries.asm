@@ -6,29 +6,29 @@ ENDM
 PokemonCries::
 ; entries correspond to constants/pokemon_constants.asm
 	table_width MON_CRY_LENGTH, PokemonCries
-	mon_cry CRY_BULBASAUR,   128,  129 ; BULBASAUR
-	mon_cry CRY_BULBASAUR,    32,  256 ; IVYSAUR
-	mon_cry CRY_BULBASAUR,     0,  320 ; VENUSAUR
-	mon_cry CRY_CHARMANDER,   96,  192 ; CHARMANDER
-	mon_cry CRY_CHARMANDER,   32,  192 ; CHARMELEON
-	mon_cry CRY_CHARMANDER,    0,  256 ; CHARIZARD
-	mon_cry CRY_SQUIRTLE,     96,  192 ; SQUIRTLE
-	mon_cry CRY_SQUIRTLE,     32,  192 ; WARTORTLE
-	mon_cry CRY_BLASTOISE,     0,  256 ; BLASTOISE
-	mon_cry CRY_CATERPIE,    128,  160 ; CATERPIE
-	mon_cry CRY_METAPOD,     204,  129 ; METAPOD
-	mon_cry CRY_CATERPIE,    119,  192 ; BUTTERFREE
-	mon_cry CRY_WEEDLE,      238,  129 ; WEEDLE
-	mon_cry CRY_BLASTOISE,   255,  129 ; KAKUNA
-	mon_cry CRY_BLASTOISE,    96,  256 ; BEEDRILL
+	mon_cry CRY_BULBASAUR,    35,  150 ; ALLILEAF
+	mon_cry CRY_BULBASAUR,    15,  200 ; CROCOFROND
+	mon_cry CRY_BULBASAUR,     0,  275 ; DRACODILE
+	mon_cry CRY_CHARMANDER,   75,  142 ; LAVASAUR
+	mon_cry CRY_CHARMANDER,   23,  115 ; BRONTOSEAR
+	mon_cry CRY_CHARMANDER,    5,  172 ; VOLBRACHIO
+	mon_cry CRY_SQUIRTLE,     26,   92 ; SHARQUA
+	mon_cry CRY_SQUIRTLE,     12,  152 ; THRESHARP
+	mon_cry CRY_BLASTOISE,     5,  226 ; SLASHARK
+	mon_cry CRY_SENTRET,      35,  125 ; CAPPI
+	mon_cry CRY_SENTRET,        0,  175 ; CAPYBOARA
+	mon_cry CRY_PIDGEY,      119,  100 ; PEBBIRD
+	mon_cry CRY_PIDGEY,       96,  190 ; FEATHORE
+	mon_cry CRY_PIDGEOTTO,    40,  250 ; BOULDEROC
+	mon_cry CRY_CATERPIE,     25,  100 ; BUGGY
 	mon_cry CRY_PIDGEY,      223,  132 ; PIDGEY
 	mon_cry CRY_PIDGEOTTO,    40,  320 ; PIDGEOTTO
 	mon_cry CRY_PIDGEOTTO,    17,  383 ; PIDGEOT
 	mon_cry CRY_RATTATA,       0,  256 ; RATTATA
-	mon_cry CRY_RATTATA,      32,  383 ; RATICATE
-	mon_cry CRY_SPEAROW,       0,  256 ; SPEAROW
-	mon_cry CRY_FEAROW,       64,  288 ; FEAROW
-	mon_cry CRY_EKANS,        18,  192 ; EKANS
+	mon_cry CRY_SENTRET,       32,  383 ; VAPORET
+	mon_cry CRY_RAICHU,        0,  256 ; FERRESTORM
+	mon_cry CRY_CLEFAIRY,    150,   75 ; BUNILOPE
+	mon_cry CRY_CLEFAIRY,     85,  110 ; BUNIWOLP
 	mon_cry CRY_EKANS,       224,  144 ; ARBOK
 	mon_cry CRY_BULBASAUR,   238,  129 ; PIKACHU
 	mon_cry CRY_RAICHU,      238,  136 ; RAICHU

@@ -6,6 +6,7 @@ AlphabeticalPokedexOrder:
 	db AERODACTYL
 	db AIPOM
 	db ALAKAZAM
+	db ALLILEAF
 	db AMPHAROS
 	db ARBOK
 	db ARCANINE
@@ -13,19 +14,18 @@ AlphabeticalPokedexOrder:
 	db ARTICUNO
 	db AZUMARILL
 	db BAYLEEF
-	db BEEDRILL
 	db BELLOSSOM
 	db BELLSPROUT
-	db BLASTOISE
 	db BLISSEY
-	db BULBASAUR
-	db BUTTERFREE
-	db CATERPIE
+	db BOULDEROC
+	db BRONTOSEAR
+	db BUGGY
+	db BUNILOPE
+	db BUNIWOLP
+	db CAPPI
+	db CAPYBOARA
 	db CELEBI
 	db CHANSEY
-	db CHARIZARD
-	db CHARMANDER
-	db CHARMELEON
 	db CHIKORITA
 	db CHINCHOU
 	db CLEFABLE
@@ -34,6 +34,7 @@ AlphabeticalPokedexOrder:
 	db CLOYSTER
 	db CORSOLA
 	db CROBAT
+	db CROCOFROND
 	db CROCONAW
 	db CUBONE
 	db CYNDAQUIL
@@ -44,6 +45,7 @@ AlphabeticalPokedexOrder:
 	db DODRIO
 	db DODUO
 	db DONPHAN
+	db DRACODILE
 	db DRAGONAIR
 	db DRAGONITE
 	db DRATINI
@@ -51,7 +53,6 @@ AlphabeticalPokedexOrder:
 	db DUGTRIO
 	db DUNSPARCE
 	db EEVEE
-	db EKANS
 	db ELECTABUZZ
 	db ELECTRODE
 	db ELEKID
@@ -60,8 +61,9 @@ AlphabeticalPokedexOrder:
 	db EXEGGCUTE
 	db EXEGGUTOR
 	db FARFETCH_D
-	db FEAROW
+	db FEATHORE
 	db FERALIGATR
+	db FERRESTORM
 	db FLAAFFY
 	db FLAREON
 	db FORRETRESS
@@ -94,7 +96,6 @@ AlphabeticalPokedexOrder:
 	db HOUNDOUR
 	db HYPNO
 	db IGGLYBUFF
-	db IVYSAUR
 	db JIGGLYPUFF
 	db JOLTEON
 	db JUMPLUFF
@@ -102,7 +103,6 @@ AlphabeticalPokedexOrder:
 	db KABUTO
 	db KABUTOPS
 	db KADABRA
-	db KAKUNA
 	db KANGASKHAN
 	db KINGDRA
 	db KINGLER
@@ -111,6 +111,7 @@ AlphabeticalPokedexOrder:
 	db LANTURN
 	db LAPRAS
 	db LARVITAR
+	db LAVASAUR
 	db LEDIAN
 	db LEDYBA
 	db LICKITUNG
@@ -131,7 +132,6 @@ AlphabeticalPokedexOrder:
 	db MAROWAK
 	db MEGANIUM
 	db MEOWTH
-	db METAPOD
 	db MEW
 	db MEWTWO
 	db MILTANK
@@ -156,6 +156,7 @@ AlphabeticalPokedexOrder:
 	db ONIX
 	db PARAS
 	db PARASECT
+	db PEBBIRD
 	db PERSIAN
 	db PHANPY
 	db PICHU
@@ -182,7 +183,6 @@ AlphabeticalPokedexOrder:
 	db RAICHU
 	db RAIKOU
 	db RAPIDASH
-	db RATICATE
 	db RATTATA
 	db REMORAID
 	db RHYDON
@@ -195,10 +195,12 @@ AlphabeticalPokedexOrder:
 	db SEAKING
 	db SEEL
 	db SENTRET
+	db SHARQUA
 	db SHELLDER
 	db SHUCKLE
 	db SKARMORY
 	db SKIPLOOM
+	db SLASHARK
 	db SLOWBRO
 	db SLOWKING
 	db SLOWPOKE
@@ -208,9 +210,7 @@ AlphabeticalPokedexOrder:
 	db SNEASEL
 	db SNORLAX
 	db SNUBBULL
-	db SPEAROW
 	db SPINARAK
-	db SQUIRTLE
 	db STANTLER
 	db STARMIE
 	db STARYU
@@ -225,6 +225,7 @@ AlphabeticalPokedexOrder:
 	db TEDDIURSA
 	db TENTACOOL
 	db TENTACRUEL
+	db THRESHARP
 	db TOGEPI
 	db TOGETIC
 	db TOTODILE
@@ -235,15 +236,14 @@ AlphabeticalPokedexOrder:
 	db UNOWN
 	db URSARING
 	db VAPOREON
+	db VAPORET
 	db VENOMOTH
 	db VENONAT
-	db VENUSAUR
 	db VICTREEBEL
 	db VILEPLUME
+	db VOLBRACHIO
 	db VOLTORB
 	db VULPIX
-	db WARTORTLE
-	db WEEDLE
 	db WEEPINBELL
 	db WEEZING
 	db WIGGLYTUFF

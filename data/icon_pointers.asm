@@ -8,7 +8,7 @@ IconPointers:
 	dw PikachuIcon
 	dw StaryuIcon
 	dw FishIcon
-	dw BirdIcon
+	dw PebbirdIcon
 	dw MonsterIcon
 	dw ClefairyIcon
 	dw OddishIcon
@@ -17,14 +17,14 @@ IconPointers:
 	dw LaprasIcon
 	dw HumanshapeIcon
 	dw FoxIcon
-	dw EquineIcon
+	dw CappiIcon
 	dw ShellIcon
 	dw BlobIcon
 	dw SerpentIcon
 	dw VoltorbIcon
-	dw SquirtleIcon
-	dw BulbasaurIcon
-	dw CharmanderIcon
+	dw SharquaIcon
+	dw AllileafIcon
+	dw LavasaurIcon
 	dw CaterpillarIcon
 	dw UnownIcon
 	dw GeodudeIcon
@@ -40,4 +40,16 @@ IconPointers:
 	dw SlowpokeIcon
 	dw SudowoodoIcon
 	dw BigmonIcon
+	dw CrocofrondIcon
+	dw DracodileIcon
+	dw BrontosearIcon
+	dw VolbrachioIcon
+	dw CapyboaraIcon
+	dw FeathoreIcon
+	dw BoulderocIcon
+	dw BuggyIcon
+	dw VaporetIcon
+	dw FerrestormIcon
+	dw BunilopeIcon
+	dw BuniwolpIcon
 	assert_table_length NUM_ICONS + 1

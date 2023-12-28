@@ -1,10 +1,10 @@
-	db "RAINBOW@" ; species name
-	dw 1206, 4390 ; height, weight
+	db "EQUINOX@" ; species name
+	dw 1206, 5440 ; height, weight
 
-	db   "It will reveal"
-	next "itself before a"
-	next "pure-hearted"
+	db   "EQUITERNAL is said"
+	next "to give and take"
+	next "life and preserves"
 
-	page "trainer by shining"
-	next "its bright rain-"
-	next "bow-colored wings.@"
+	page "the balance of day"
+	next "and night through-"
+	next "out the seasons.@"

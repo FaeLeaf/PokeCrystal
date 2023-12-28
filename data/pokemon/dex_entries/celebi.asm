@@ -1,10 +1,10 @@
-	db "TIMETRAVEL@" ; species name
-	dw 200, 110 ; height, weight
+	db "TIDAL@" ; species name
+	dw 100, 70 ; height, weight
 
-	db   "Revered as a"
-	next "guardian of the"
-	next "forest, CELEBI"
+	db   "Never confirmed to"
+	next "exist, this Mythi-"
+	next "al #MON is said"
 
-	page "appears wherever"
-	next "beautiful forests"
-	next "exist.@"
+	page "to control the"
+	next "ocean's tides and"
+	next "water's currents.@"

@@ -1,28 +1,28 @@
 FramesPointers:
 	table_width 2, FramesPointers
-	dw BulbasaurFrames
-	dw IvysaurFrames
-	dw VenusaurFrames
-	dw CharmanderFrames
-	dw CharmeleonFrames
-	dw CharizardFrames
-	dw SquirtleFrames
-	dw WartortleFrames
-	dw BlastoiseFrames
-	dw CaterpieFrames
-	dw MetapodFrames
-	dw ButterfreeFrames
-	dw WeedleFrames
-	dw KakunaFrames
-	dw BeedrillFrames
+	dw AllileafFrames
+	dw CrocofrondFrames
+	dw DracodileFrames
+	dw LavasaurFrames
+	dw BrontosearFrames
+	dw VolbrachioFrames
+	dw SharquaFrames
+	dw ThresharpFrames
+	dw SlasharkFrames
+	dw CappiFrames
+	dw CapyboaraFrames
+	dw PebbirdFrames
+	dw FeathoreFrames
+	dw BoulderocFrames
+	dw BuggyFrames
 	dw PidgeyFrames
 	dw PidgeottoFrames
 	dw PidgeotFrames
 	dw RattataFrames
-	dw RaticateFrames
-	dw SpearowFrames
-	dw FearowFrames
-	dw EkansFrames
+	dw VaporetFrames
+	dw FerrestormFrames
+	dw BunilopeFrames
+	dw BuniwolpFrames
 	dw ArbokFrames
 	dw PikachuFrames
 	dw RaichuFrames
